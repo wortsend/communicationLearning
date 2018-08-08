@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\socketlearning\mytcpserver1\mytcpserver1\main.cpp(70): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: 参见“inet_ntoa”的声明
+  myTCPServer1.vcxproj -> E:\socketLearning\myTCPServer1\Debug\myTCPServer1.exe
+  myTCPServer1.vcxproj -> E:\socketLearning\myTCPServer1\Debug\myTCPServer1.pdb (Partial PDB)
